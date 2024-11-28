@@ -8,7 +8,7 @@ This project contains description files for GP7 Robotic Arm, which is used for s
 1 - Clone the repo in your workspace 
 ```bash
 $ cd path-to-your-workspace-folder/src
-$ git clone https://github.com/munn33b/gp7_visualization.git
+$ git clone https://github.com/iamkrunalrk/gp7_visualization.git
 ```
 
 2 - Catkin make the package 
